@@ -1,0 +1,81 @@
+TEXT OLYMPUS TRACKER
+{
+  font-family : Kanit;
+  font-weight : bold;
+  font-size : 32px;
+  color : #E4E5EA;
+  color : rgb(228, 229, 234);
+}
+
+TEXT CURRENT SELL FEE
+{
+  font-family : Kanit;
+  font-size : 27px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+  opacity : 0.6;
+  filter: alpha(opacity=60) progid:DXImageTransform.Microsoft.Alpha(opacity=60) ;
+}
+
+TEXT SELL FEE %
+{
+  font-family : Kanit;
+  font-size : 84px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+
+TEXT BUYBACK NOTIFICATIONS COMING SOON
+{
+  font-family : Open Sans;
+  font-size : 16px;
+  color : #71747F;
+  color : rgb(113, 116, 127);
+}
+
+TEXT FEE TRACKER BROUGHT TO YOU BY
+{
+  font-family : Open Sans;
+  font-weight : bold;
+  font-size : 16px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+
+
+CARD SELL FEE
+{
+  background : #4D5263;
+  background : rgba(77, 82, 99, 1);
+  border-radius : 4px;
+  -moz-border-radius : 4px;
+  -webkit-border-radius : 4px;
+  box-shadow : 0px 4px 1px rgba(46, 51, 66, 0.2);
+  filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=0, OffY=4, Color='#2E3342') ;
+}
+
+BUTTON RS
+{
+  background : #B72323;
+  background : rgba(183, 35, 35, 1);
+  border-style : Solid;
+  border-color : #D32929;
+  border-color : rgba(211, 41, 41, 1);
+  border-radius : 4px;
+  -moz-border-radius : 4px;
+  -webkit-border-radius : 4px;
+  box-shadow : 0px 4px 1px rgba(46, 51, 66, 0.2);
+  filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=0, OffY=4, Color='#2E3342') ;
+}
+
+
+BUTTON RS BG
+{
+  background-image : url(image.png);
+  /*To create image referenced in CSS, use \'Export Selected CSS\' command.*/
+  background-repeat : no-repeat;
+  mix-blend-mode: overlay;
+  opacity : 0.4;
+  filter: alpha(opacity=40) progid:DXImageTransform.Microsoft.Alpha(opacity=40) ;
+}
+

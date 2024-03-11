@@ -1,0 +1,6 @@
+/*******************************
+     User Global Variables
+*******************************/
+@pageBackground: #fffad6;
+@fontName: Nunito;
+@importGoogleFonts: true;
